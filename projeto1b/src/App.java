@@ -13,6 +13,5 @@ public class App {
         // Comentário inserido na branch main
 
         System.out.println("Vitória");
-
     }
 }
