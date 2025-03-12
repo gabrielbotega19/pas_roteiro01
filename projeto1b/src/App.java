@@ -12,5 +12,7 @@ public class App {
         s.close();
         // Comentário inserido na branch main
 
+        System.out.println("Vitória");
+
     }
 }
