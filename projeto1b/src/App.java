@@ -13,5 +13,6 @@ public class App {
         // Comentário inserido na branch main
 
         System.out.println("Vitória");
+        System.out.println("Alteração completa!");
     }
 }
