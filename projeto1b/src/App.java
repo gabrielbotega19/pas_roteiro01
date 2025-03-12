@@ -10,5 +10,7 @@ public class App {
         System.out.println(p.toString());
         System.out.println("Categoria: "+p.classifica());
         s.close();
+        // Comentário inserido na branch main
+
     }
 }
