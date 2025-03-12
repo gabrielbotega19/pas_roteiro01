@@ -11,6 +11,6 @@ public class App {
         System.out.println("Categoria: "+p.classifica());
         s.close();
         // Comentário inserido na branch main
-
+        System.out.println("Corrigindo os bugs...");
     }
 }
